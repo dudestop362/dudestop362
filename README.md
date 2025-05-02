@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dudestop362
+- 👀 I’m interested in physikal computing
+- 🌱 I’m currently learning mickropython
+- ⚡ Fun fact: im from germany 🇩🇪
